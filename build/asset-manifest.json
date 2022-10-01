@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/haven-clothing.github.io/static/css/main.0ddcced5.css",
+    "main.js": "/haven-clothing.github.io/static/js/main.455568d8.js",
+    "static/js/787.a91053ce.chunk.js": "/haven-clothing.github.io/static/js/787.a91053ce.chunk.js",
+    "static/media/about-img.jpg": "/haven-clothing.github.io/static/media/about-img.cb384f919612082c69a2.jpg",
+    "static/media/haven-logo.jpg": "/haven-clothing.github.io/static/media/haven-logo.3d70568c34ba7e7187c9.jpg",
+    "index.html": "/haven-clothing.github.io/index.html",
+    "main.0ddcced5.css.map": "/haven-clothing.github.io/static/css/main.0ddcced5.css.map",
+    "main.455568d8.js.map": "/haven-clothing.github.io/static/js/main.455568d8.js.map",
+    "787.a91053ce.chunk.js.map": "/haven-clothing.github.io/static/js/787.a91053ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ddcced5.css",
+    "static/js/main.455568d8.js"
+  ]
+}
